@@ -156,6 +156,11 @@
     }
   });
 
+  //Deletion of facts, services, and testimonials sections 
+$('#facts').remove(); 
+$('#services').remove(); 
+$('#testimonials').remove(); 
+
   // Portfolio details carousel
   $(".portfolio-details-carousel").owlCarousel({
     autoplay: true,
