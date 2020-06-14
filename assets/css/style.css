@@ -228,6 +228,8 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .hero-container {
   position: relative;
+  margin-left: 330px; 
+  margin-top: 70px;
   z-index: 2;
   min-width: 300px;
 }
