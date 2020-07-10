@@ -1,6 +1,9 @@
 ## Hello!
 
-![alt text](assets/img/tony_kim.jpeg)
+<div align="center">
+<img src=assets/img/tony_kim.jpeg" >
+<p>Perfectly balanced</p>
+</div>
 
 ### My name is Tony Kim, and I am a software engineer interested in developing new technologies and collaborating in teams to help increase company operations and efficiencies. 
 
