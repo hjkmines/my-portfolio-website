@@ -6,4 +6,4 @@
 
 [My Portfolio Website](https://hjkmines.github.io/my-portfolio-website/)
 
-###If you are interested in learning or inquiring about my experience and projects, please feel free to reach out to me by phone: 720.205.2368 or by email: hjkmines@gmail.com. 
+### If you are interested in learning or inquiring about my experience and projects, please feel free to reach out to me by phone: 720.205.2368 or by email: hjkmines@gmail.com. 
