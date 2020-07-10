@@ -1,6 +1,6 @@
 ## Hello!
 
-![alt text](assets/img/Tony.jpg)
+![alt text](assets/img/tony_kim.jpg)
 
 ### My name is Tony Kim, and I am a software engineer interested in developing new technologies and collaborating in teams to help increase company operations and efficiencies. 
 
