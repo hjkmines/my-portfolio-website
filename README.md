@@ -1,12 +1,10 @@
-## Hello!
-
 <div align="center">
 <kbd>
 <img src="assets/img/tony_kim.jpeg">
 </kbd>
 </div>
 
-### My name is Tony Kim, and I am a software engineer interested in developing new technologies and collaborating in teams to help increase company operations and efficiencies. 
+### Hello! My name is Tony Kim, and I am a software engineer interested in developing new technologies and collaborating in teams to help increase company operations and efficiencies. 
 
 ### Please visit my website to view my background, experience, and projects I have developed. 
 
