@@ -17,6 +17,25 @@ a {
   color: #149ddd;
 }
 
+/* .labels {
+  text-align: center;
+} */
+
+.front-end, .back-end, .additional {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.front-end, .back-end {
+  margin-bottom: 40px;
+}
+
+.skillset {
+  display: inline;
+  font-size: 20px;
+}
+
 a:hover {
   color: #37b3ed;
   text-decoration: none;
